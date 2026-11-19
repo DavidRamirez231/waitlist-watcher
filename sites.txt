@@ -1,0 +1,12 @@
+# Pages the watcher checks. One per line:  Name | web address
+# Lines that start with # are ignored.
+
+LACDA How to Apply | https://lacda.org/section-8/shared-info/how-to-apply
+Long Beach Housing Authority | https://longbeach.gov/haclb/
+
+# Parked for now.
+# HACLA shows a "prove you are human" check to scripts, so we leave it alone.
+# HACLA Section 8 | https://www.hacla.org/en/about-section-8
+# HACLA Public Housing Applicants | https://www.hacla.org/en/about-public-housing/public-housing-applicants
+# Access Housing LA needs a real browser to load. Revisit in a later stage.
+# Access Housing LA | https://access.housing.lacity.gov/
